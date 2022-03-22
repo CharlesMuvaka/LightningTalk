@@ -1,0 +1,32 @@
+.btn{
+    width: 98%;
+}
+label, .btn{
+    font-size: 12px;
+}
+.img1{
+    float: left;
+    width: 30%;
+    height: auto;
+    margin-right: 15px;
+}
+.col-md-3 p{
+    font-size: 15px;
+}
+.im1{
+    width: 100%;
+    height: 70%;
+}
+.main1{
+    background-color: maroon;
+}
+#mt1{
+    background-image: url("../images/global-map.jpg");
+    background-size: cover;
+    background-position: center center;
+}
+#mt2{
+    background-image: url("../images/global-map.jpg");
+    background-size: cover;
+    background-position: top;
+}

@@ -1,0 +1,31 @@
+body{
+    background-color: black;
+    margin: 0 !important;
+}
+.input-group{
+    width: 98%;
+}
+.para1{
+    font-size: 12px;
+}
+.border{
+    border-radius: 10px;
+    box-shadow: 3px 3px 2px grey;
+    
+}
+.border img{
+    box-shadow: 1px -1px 0 grey;
+    border-radius: 5px;
+    height: 40%;
+}
+.main1{
+    background-color: maroon;
+}
+.btn{
+    background-color: orangered;
+}
+.posit{
+    height: 1300px;
+}
+
+

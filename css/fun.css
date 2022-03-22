@@ -1,0 +1,274 @@
+
+#col{
+    margin: 0;
+}
+#col1 img{
+    height: 300px;
+    width: 50%;
+    float: left;
+}
+#col2{
+    /* margin: 20px; */
+    background-image: url(../images/game.jpeg);
+    height: 350px;
+    border: 1px;
+    border-radius: 15px;
+    box-shadow: -5px 5px 2px grey !important;
+}
+.navbar-brand{
+    width: 30%;
+}
+.nav-link{
+    color: white;
+    font-weight: bolder;
+    padding: 15px;
+}
+.btn:hover{
+    background-color: maroon !important;
+    color: black;
+    
+    
+}
+#cont3{
+    height: 100px;
+}
+.imageCard{
+    background-image: url("../images/IMG_2564.PNG");
+    background-size: cover;
+    background-position: center;
+    width: 98%;
+    height: 250px;
+    border: 2px;
+    border-radius: 10px;
+    box-shadow: -5px 2px 1px grey;
+}
+.image{
+    background-image: url("../images/sudoku.jpeg");
+    background-size: cover;
+    background-position: right center;
+    width: 98%;
+    height: 250px;
+    border: 2px;
+    border-radius: 10px;
+    box-shadow: -5px 2px 1px grey;
+}
+.ima{
+    background-image: url("../images/fifa.jpeg");
+    background-size: cover;
+    background-position:  center;
+    width: 98%;
+    height: 250px;
+    border: 2px;
+    border-radius: 10px;
+    box-shadow: -5px 2px 1px grey;
+}
+.imag{
+    background-image: url("../images/chess.jpeg");
+    background-size: cover;
+    background-position: top center;
+    width: 98%;
+    height: 250px;
+    border: 2px;
+    border-radius: 10px;
+    box-shadow: -5px 2px 1px grey;
+}
+.imageCard2{
+    background-image: url("../images/mk1.jpeg");
+    background-size: cover;
+    background-position: top left;
+    width: 98%;
+    height: 250px;
+    border: 2px;
+    border-radius: 10px;
+    box-shadow: -5px 2px 1px grey;
+}
+.image2{
+    background-image: url("../images/code.png");
+    background-size: cover;
+    background-position: left center;
+    width: 98%;
+    height: 250px;
+    border: 2px;
+    border-radius: 10px;
+    box-shadow: -5px 2px 1px grey;
+}
+.imag2{
+    background-image: url("../images/scrabble.jpeg");
+    background-size: cover;
+    background-position: top center;
+    width: 98%;
+    height: 250px;
+    border: 2px;
+    border-radius: 10px;
+    box-shadow: -5px 2px 1px grey;
+}
+.ima2{
+    background-image: url("../images/duty.jpeg");
+    background-size: cover;
+    background-position: center;
+    width: 98%;
+    height: 250px;
+    border: 2px;
+    border-radius: 10px;
+    box-shadow: -5px 2px 1px grey;
+}
+.imageCard3{
+    background-image: url("../images/gof.jpeg");
+    background-size: cover;
+    background-position: top center;
+    width: 98%;
+    height: 250px;
+    border: 2px;
+    border-radius: 10px;
+    box-shadow: -5px 2px 1px grey;
+}
+.image3{
+    background-image: url("../images/ludo.jpeg");
+    background-size: cover;
+    background-position: center;
+    width: 98%;
+    height: 250px;
+    border: 2px;
+    border-radius: 10px;
+    box-shadow: -5px 2px 1px grey;
+}
+.imag3{
+    background-image: url("../images/poker.jpeg");
+    background-size: cover;
+    background-position: top center;
+    width: 98%;
+    height: 250px;
+    border: 2px;
+    border-radius: 10px;
+    box-shadow: -5px 2px 1px grey;
+}
+.ima3{
+    background-image: url("../images/bbal.jpeg");
+    background-size: cover;
+    background-position: right center;
+    width: 98%;
+    height: 250px;
+    border: 2px;
+    border-radius: 10px;
+    box-shadow: -5px 2px 1px grey;
+}
+.imageCard4{
+    background-image: url("../images/gta.jpeg");
+    background-size: cover;
+    background-position: left center;
+    width: 98%;
+    height: 250px;
+    border: 2px;
+    border-radius: 10px;
+    box-shadow: -5px 2px 1px grey;
+}
+.image4{
+    background-image: url("../images/simple.png");
+    background-size: cover;
+    background-position: top center;
+    width: 98%;
+    height: 250px;
+    border: 2px;
+    border-radius: 10px;
+    box-shadow: -5px 2px 1px grey;
+}
+.imag4{
+    background-image: url("../images/snakes.png");
+    background-size: cover;
+    background-position: top center;
+    width: 98%;
+    height: 250px;
+    border: 2px;
+    border-radius: 10px;
+    box-shadow: -5px 2px 1px grey;
+}
+.ima4{
+    background-image: url("../images/candy.jpeg");
+    background-size: cover;
+    background-position: right center;
+    width: 98%;
+    height: 250px;
+    border: 2px;
+    border-radius: 10px;
+    box-shadow: -5px 2px 1px grey;
+}
+
+p{
+    font-size: 15px;
+}
+h4{
+    color: rgb(131, 41, 9);
+}
+.relic1{
+    width: 98%;
+    height: 250px;
+    background-image: url("../images/lara1.jpeg");
+    background-size: cover;
+    background-position:left center;
+    border: 2px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 2px grey;
+}
+.relic2{
+    width: 98%;
+    height: 250px;
+    background-image: url("../images/lara1.jpeg");
+    background-size: cover;
+    background-position:left center;
+    border: 2px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 2px grey;
+}
+#cont1, #cont2{
+    background-color: rgb(48, 18, 18);
+}
+.cont9{
+    width: 100%;
+}
+.myForm{
+    height: 250px;
+    
+}
+#date{
+    height: 50px;
+    width: 300px;
+}
+#Male, #Female{
+    height: 25px;
+    width: 25px;
+}
+#submit{
+    height: 50px;
+    width: 100px;
+    border: 1px white;
+    border-radius: 10px;
+    color: white;
+    background-color: rgb(131, 41, 9)
+}
+.output{
+    width: 100%;
+    height: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+#games1{
+    position: relative;
+}
+#minds,#puzzles, #others{
+    /* display: none; */
+    position: absolute;
+    top: 0;   
+}
+#adventure{
+    display: flex;
+}
+.bg{
+    height: 490px;
+}
+/* #parent1{
+    height: 450px; 
+     background-color: red; 
+
+} */
